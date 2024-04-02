@@ -1,0 +1,43 @@
+
+# 导航
+nav:
+  home: /
+  articles: /archives/
+  tag: /tags/
+  category: /categories/
+  about: /about/
+  search: /search/
+
+# 联系方式
+social_links:
+  -
+    icon: github
+    link: https://github.com/yuyidm
+  -
+    icon: mail
+    link: mailto://wx012357@gmail.com
+
+# 评论方案
+disqus:
+  enabled: true
+  shortname: yuyidm
+
+# 统计分析
+google_analytics:
+  enabled: true
+  id: 'G-61CMKFY4Z9'
+baidu_analytics:
+  enabled: true
+  id: e872e3973d738aa4e542f30e2384e251
+
+# 版权年限
+copyright:
+  start_year: 2024
+  end_year:
+# 主题色
+colorscheme: dark
+# 主语言
+language: en
+# 主页上的博客文章列表
+posts_overview:
+  show_all_posts: true
