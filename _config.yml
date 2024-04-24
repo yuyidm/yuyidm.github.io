@@ -3,10 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 1024bytes
 subtitle: ''
 description: ''
-keywords:
+keywords: 
+  - blog
+  - 开发
+  - 前端
+
 author: yuyidm
 language: en
 timezone: ''

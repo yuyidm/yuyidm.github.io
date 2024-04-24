@@ -2,7 +2,11 @@
 title: 配置ubuntu开发环境
 date: 2024-03-28 08:00:00
 tags: 
-   - ubuntu ssh git zsh nvm
+   - ubuntu
+   - ssh
+   - git
+   - zsh 
+   - nvm
 categories: 
    - 开发环境
 ---
